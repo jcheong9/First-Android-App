@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FIRST ANDROID APP</string>
+    <string name="hello">I adore Android!</string>
+    <string name="btnToggle">Toggle between uppercase$amp; lowercase</string>
+    <string name="imgBCIT">bcitImage</string>
+
+    <string-array name="seasons">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+    </string-array>
+</resources>
